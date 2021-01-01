@@ -7,4 +7,4 @@ It is a PWA so you can install the app on your smartphone if you follow the link
 **Português**: Isto é um jogo que consiste em preencher os blocos com números de 1 até 100 seguindo algumas regras.
 É uma PWA, por isso pode ser instalada um aplicação no seu smartphone se seguir o link abaixo.
 
-Link: 
+Link: https://priceless-swartz-440ab9.netlify.app/
