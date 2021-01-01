@@ -1,0 +1,63 @@
+*{
+  box-sizing: border-box;
+}
+
+:root{
+  --red: #F20000;
+  --violet: #A700A7;
+  --grey: #B1ABAB;
+}
+
+body{
+  background-color: var(--grey);
+}
+
+/*-------------------- Beginning of header -----------------------*/
+
+/* Image logo */
+#logo{
+  display:flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+/* End of image logo */
+
+/* Navbar */
+#nav{
+  display: block;
+  text-align: center;
+}
+#nav li{
+  display: inline;
+  font-size: larger;
+  border: 1px solid var(--red);
+  border-radius: 10px;
+  background-color: var(--grey);
+  padding: 0.5%;
+}
+#nav li:first-child, #nav li:nth-child(2){
+  margin-right: 3vw;
+}
+/* End of navbar */
+
+/*-------------------- End of header -----------------------*/
+
+/*-------------------- Beginning of main -----------------------*/
+
+/* Heading */
+#gameHeading{
+ text-align: center;
+ color: var(--violet);
+}
+/* End of heading */
+
+/* Table */
+table{
+  text-align: center;
+  width: 300px;
+  height: 300px;
+  border: 2px solid var(--red);
+}
+/* End of table */
+
+/*-------------------- End of main -----------------------*/
