@@ -20,6 +20,11 @@ body{
   justify-content: center;
   flex-wrap: wrap;
 }
+@media screen and (max-width:992px){
+  #logo img{
+    width: 100px;
+  }
+}
 /* End of image logo */
 
 /* Navbar */
